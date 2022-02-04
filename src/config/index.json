@@ -27,17 +27,17 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Hello,",
+    "subtitle": "my name is Drew.",
+    "description": "I'm a solutions engineer ",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Email me",
+      "href": "mailto:drew@emery.guru?subject=website"
     }
   },
   "product": {
@@ -145,9 +145,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/ethinallen",
+      "twitter": "https://twitter.com/ethinallen",
+      "linkedin": "https://www.linkedin.com/in/andrewbartlettemery/"
     }
   }
 }
